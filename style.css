@@ -67,7 +67,7 @@ blockquote{
     {
         padding: 0;
     }
-    #content
+    .content
     {
         margin-top: 0;
     }
@@ -75,10 +75,10 @@ blockquote{
     {
         display: none;
     }
-    #content h3
+    .content h3
     {
         position:relative;
-        margin-left: 0;
+        margin-left: 0 !important;
         float: none;
         text-align: left;
         font-weight: 700;
