@@ -8,8 +8,11 @@ body{
 h1{
     font-size: 4.25em;
 }
-p, blockquote, pre, code, samp, dl, ol, ul, h4{
+blockquote, pre, code, samp, dl, ol, ul, h4{
     margin:0px;
+}
+p{
+    margin-bottom:5px;
 }
 blockquote{
     font-style: italic;
