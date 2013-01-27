@@ -4,7 +4,7 @@ layout: index
 ---
 ### Me ###
 
-Hi, my name is Alberto Tedeschi, I was born in September 7, 1985, I am a software **developer**, during my years of programming I played around with many different technologies and language, but my main focus is around the web development.
+Hi, my name is Alberto Tedeschi, I was born in September 7, 1985, I am a software **developer**, during my years of programming I played around with many different technologies and languages, but my main focus is around the web development.
 
 I love programming, challenge and learning. During the years I've mastered PHP and Javascript and I am fluent in many other languages like Python, C++, Java next on my todo list C#!
 
@@ -23,14 +23,10 @@ In the meantime I also develop and deploy client's’ mobile websites getting da
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners, Mar 2012 - Jun 2012</abbr>) 
 Be & Partners is a digital media company, I worked on their CMS written in **PHP** and based on **Zend Framework**, adding many new feature:
-It can now support multiple products list and multiple localizations (**Zend_Locale**), the products catalogues can be downloaded as Pdf generated from the product's database(**Zend_Pdf**).
-
-Designed and implemented a set of **RestFul API** to import the products lists.
-
-Designed and implemented a proper ACL system(**Zend_Acl**).
-
-Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
-
+* It can now support multiple products list and multiple localizations (**Zend_Locale**), the products catalogues can be downloaded as Pdf generated from the product's database(**Zend_Pdf**).
+* Designed and implemented a set of **RestFul API** to import the products lists.
+* Designed and implemented a proper ACL system(**Zend_Acl**).
+* Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
 After that me and a colleague used this updated version of the CMS to develop the deroma's website, which is now live in Italy, France, Spain and some other countries.
 
 ### Dec 2011 - Feb 2011 ###
@@ -40,25 +36,17 @@ In a team of 20 developer my main focus was development of new features and bug 
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL, Sep 2008 - Sep 2011</abbr>) 
 Soft-Net is a little software house, the company is to offer a complete IT support to their clients selling hardware, software, website design, CRM, hosting, search engine optimization, technical support, and network design.
-In the years there I could work on a wide range of different technologies and problems:
+In the years there I could work on a wide range of different technologies and languages:
 
-Internal custom CMS development based on **PHP**, **MySql** and **Zend Framework**.
-
-Integration of the CMS with customer’s ERP/CRM.(**Rest**/**Soap**/**CSV**).
-
-Development and deployment of dynamic websites and web applications most of them based on **LAMP stack**.
-
-Development of a custom reporting platform using **Apache Fop**, **XSLT** on **LAMP** infrastructure.
-
-**Domains** and **hosting** management.
-
-Migration of the existing projects to new infrastructures.
-
-Search Engine Optimization(**SEO**).
-
-Support other dev team while working on critical projects(**Python**/**C++**).
-
-Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
+* Internal custom CMS development based on **PHP**, **Javascript**, **MySql** and **Zend Framework**.
+* Integration of the CMS with customer’s ERP/CRM.(**Rest**/**Soap**/**CSV**).
+* Development and deployment of dynamic websites and web applications most of them based on **LAMP stack**.
+* Development of a custom reporting platform using **Apache Fop**, **XSLT** on **LAMP** infrastructure.
+* **Domains** and **hosting** management.
+* Migration of the existing projects to new infrastructures.
+* Search Engine Optimization(**SEO**).
+* Support other dev team while working on critical projects(**Python**/**C++**).
+* Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
 
 ## tl;dr ##
 > I wrote my first line of **BASIC** when I was 8 or so, thanks to my big bro who was studying Computer Science at the Modena University, on my beloved Commodore 64.
