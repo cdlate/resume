@@ -60,8 +60,7 @@ Support other dev team while working on critical projects(**Python**/**C++**).
 
 Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
 
-## About myself ##
-### tl;dr ###
+## tl;dr ##
 > I wrote my first line of **BASIC** when I was 8 or so, thanks to my big bro who was studying Computer Science at the Modena University, on my beloved Commodore 64.
 > After that I started to watch at him as my grand master and started to learn about variables, logic instructions, and iteration. 
 > Few months later since my brother started to work I left the programming for a while and enjoyed friends and the county life in my hometown.
