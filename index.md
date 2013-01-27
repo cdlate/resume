@@ -35,7 +35,7 @@ In a team of 20 developer my main focus was development of new features and bug 
 This has been the most wonderful and exiting working experience I ever had, the team managed through **agile/scrum** methodology, I could improve a lot my skills and met some best developers I ever knew, It has been an honor and a pleasure to work in that awesome team.
 My duties were:
 * Bug fixing their ecommerce system on both the frontend and backend.
-* Implement some new feature( Eg. Css/Js minifier ).
+* Implement some new feature(Eg. Css/Js minifier).
 * Merge and deploy branches from the Devs and teaching to the new guys how to do that.
 
 ### Sep 2008 - Sep 2011 ###
