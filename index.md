@@ -14,9 +14,12 @@ Tedeschi
 07/09/1985 
 ### Nationality ###
 Italian
-### Italian ### (Mother Tongue)
-### English ### (Fluent)
-### Spanish ### (Moderate)
+### Italian ### 
+(Mother Tongue)
+### English ### 
+(Fluent)
+### Spanish ### 
+(Moderate)
 
 ## Key Skills ##
 ### _PHP5_ ### 
