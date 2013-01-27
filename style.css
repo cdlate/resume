@@ -18,18 +18,14 @@ body{
     position: absolute;
     text-align: right;
     width: 140px;
+    font-size:0.9em;
 }
 
 p, blockquote, pre, code, samp, dl, ol, ul, h4{
     margin:0px;
 }
-#keySkill{margin-left:25px;}
-#keySkill > ul{
-    column-count: 2;
-}
-.left{
-    float:left;
-}
-.clear{
-    clear:both;
+blockquote{
+    font-style: italic;
+    padding-left: 1.475em;
+    border-left: 3px solid #ccc;
 }
