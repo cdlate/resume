@@ -65,18 +65,18 @@ Junior
 (<abbr title="Gomeeki, Sydney, Australia">Gomeeki, Jun 2012-Today</abbr>) 
 My main task is the development of their tracing platform, basically an aggregator of statistical data coming from different tracking engines.
 
-The project is developed using **PHP** (**Yii Framework**), **Bootstrap.js**, **JQuery**, **BackBone**, **GA API**, **Piwik** and his API, and I take care of both the frontend and backend development.
+The project is developed using **PHP** (**Yii Framework**), **Bootstrap.js**, **JQuery**, **BackBone**, **GA API**, **Piwik** and his API,  I take care of both the frontend and backend development.
 
-In the meantime I also develop and deploy client's’ mobile websites getting data from their Backend System and integrate different CRM/ERP systems most of the times through **RestFul**/**SOAP** API.
+In the meantime I also develop and deploy client's’ mobile websites getting data from their Backend System and integrating different CRM/ERP systems most of the them through **RestFul**/**SOAP** API.
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners, Mar 2012 - Jun 2012</abbr>) 
 Be & Partners is a digital media company, I worked on their CMS written in **PHP** and based on **Zend Framework**, adding many new feature:
-It can now support multiple products list and multiple localizations (**ZendLocale**), the products catalogues can be downloaded as Pdf generated from the product's database(**ZendPdf**).
+It can now support multiple products list and multiple localizations (**Zend_Locale**), the products catalogues can be downloaded as Pdf generated from the product's database(**Zend_Pdf**).
 
 Designed and implemented a set of **RestFul API** to import the products lists.
 
-Designed and implemented a proper ACL system(**ZendAcl**).
+Designed and implemented a proper ACL system(**Zend_Acl**).
 
 Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
 
@@ -136,5 +136,3 @@ Everything else is recent history: I left my job in Italy and started to travel 
 I had to move back in Italy since my mum had some serious health problems, there I started to work for “Be & Partners” and collaborate( again ) with “Soft-Net” .
 
 Now luckily the problems at home are gone, so I’m back in Oz now working at Gomeeki, but looking ahead for new challenges.
-
-Interests: Programming, Science and Technology, Snowboarding (Surf now).

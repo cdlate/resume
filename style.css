@@ -9,4 +9,12 @@ body{
     width:780px;
     margin:0 auto;
 }
-
+#content h2, #content h3 {
+    color: #444444;
+    float: left;
+    font-weight: 600;
+    margin-left: -140px;
+    position: absolute;
+    text-align: right;
+    width: 120px;
+}
