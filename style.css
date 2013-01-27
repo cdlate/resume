@@ -13,8 +13,13 @@ body{
     color: #444444;
     float: left;
     font-weight: 600;
-    margin-left: -140px;
+    margin-left: -185px;
+    margin-top: 0;
     position: absolute;
     text-align: right;
-    width: 120px;
+    width: 180px;
+}
+
+p, blockquote, pre, code, samp, dl, ol, ul, h4{
+    margin:0px;
 }
