@@ -41,13 +41,3 @@
     {
         display: none;
     }
-    .content h3
-    {
-        position:relative;
-        margin-left: 0;
-        float: none;
-        text-align: left;
-        font-weight: 700;
-        color: #444;
-        width: auto;
-    }
