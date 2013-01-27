@@ -68,13 +68,13 @@ The project is developed using Yii Framework, Bootstrap.js, JQuery, BackBone, GA
 Example at: http://m.ahg.com.au/
 
 ### Mar 2012 - Jun 2012  ###
-(<abbr title="Be & Partners, Reggio Emilia, Italy">Be & Partners, Mar 2012 - Jun 2012</abbr>) 
+(<abbr title="Be \& Partners, Reggio Emilia, Italy">Be & Partners, Mar 2012 - Jun 2012</abbr>) 
 Be & Partners is a digital media company, I worked on their CMS based, wrote on **Zend Framework**, to make it more flexible, features added:
-*Now their CMS can support multiple products list and multiple localizations **ZendLocale**.
-*Now the products catalogues can be downloaded as Pdf generated from the product database using **ZendPdf**.
-*Now the products can be imported from CSVs files or using RestFul API.
-*Now their CMS have a proper ACL system **ZendAcl**.
-*Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
+* Now their CMS can support multiple products list and multiple localizations **ZendLocale**.
+* Now the products catalogues can be downloaded as Pdf generated from the product database using **ZendPdf**.
+* Now the products can be imported from CSVs files or using RestFul API.
+* Now their CMS have a proper ACL system **ZendAcl**.
+* Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
 After that me and a colleague used this updated version of the CMS to develop the deroma's website, which is now live in Italy, France, Spain and some other countries, if you would like to see it you should change your browser locale to it-IT and you can find it at the url www.deroma.it.
 
 ### Dec 2011 - Feb 2011 ###
@@ -85,16 +85,16 @@ www.theiconic.com.au / www.zanui.com.au  / www.zalora.com.my / www.zalora.co.id
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL, Sep 2008 - Sep 2011</abbr>) 
 Soft-Net is a little software company based in Sassuolo, the company is to offer a complete IT support to their client selling hardware, software, website design, CRM, hosting, search engine optimization, technical support, and network design.
-My duties ware:
-*Internal custom CMS development based on **Zend**.
-*Integration of the CMS with customer’s ERP/CRM.(**Rest**/**Soap**/**CSV**)
-*Development and deployment of dynamic websites and web applications most of them based on **LAMP stack**.
-*Development of a custom reporting platform using **Apache Fop**, **XSLT** on **LAMP** infrastructure.
-*Domains and hosting management.
-*Migration of the existing projects to new infrastructures.
-*Search Engine Optimization(**SEO**).
-*Support other dev team while working on critical projects(**Python**/**C++**).
-*Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
+My duties were:
+* Internal custom CMS development based on **Zend**.
+* Integration of the CMS with customer’s ERP/CRM.(**Rest**/**Soap**/**CSV**)
+* Development and deployment of dynamic websites and web applications most of them based on **LAMP stack**.
+* Development of a custom reporting platform using **Apache Fop**, **XSLT** on **LAMP** infrastructure.
+* Domains and hosting management.
+* Migration of the existing projects to new infrastructures.
+* Search Engine Optimization(**SEO**).
+* Support other dev team while working on critical projects(**Python**/**C++**).
+* Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
 
 ## About myself ##
 
