@@ -23,3 +23,9 @@ body{
 p, blockquote, pre, code, samp, dl, ol, ul, h4{
     margin:0px;
 }
+.left{
+    float:left;
+}
+.clear{
+    clear:both;
+}
