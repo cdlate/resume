@@ -65,9 +65,9 @@ Junior
 (<abbr title="Gomeeki, Sydney, Australia">Gomeeki, Jun 2012-Today</abbr>) 
 My main task is the development of their tracing platform, basically an aggregator of statistical data coming from different tracking engines.
 
-The project is developed using **PHP** (**Yii Framework**), **Bootstrap.js**, **JQuery**, **BackBone**, **GA API**, **Piwik** and his API.
+The project is developed using **PHP** (**Yii Framework**), **Bootstrap.js**, **JQuery**, **BackBone**, **GA API**, **Piwik** and his API, and I take care of both the frontend and backend development.
 
-In the meantime I also take care of the development and deployment client's’ mobile websites getting data from their Backend System and integrate different CRM/ERP systems most of the times through **RestFul**/**SOAP** API.
+In the meantime I also develop and deploy client's’ mobile websites getting data from their Backend System and integrate different CRM/ERP systems most of the times through **RestFul**/**SOAP** API.
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners, Mar 2012 - Jun 2012</abbr>) 
@@ -80,24 +80,33 @@ Designed and implemented a proper ACL system(**ZendAcl**).
 
 Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
 
-After that me and a colleague used this updated version of the CMS to develop the deroma's website, which is now live in Italy, France, Spain and some other countries, if you would like to see it you should change your browser locale to it-IT and you can find it at the url www.deroma.it.
+After that me and a colleague used this updated version of the CMS to develop the deroma's website, which is now live in Italy, France, Spain and some other countries.
 
 ### Dec 2011 - Feb 2011 ###
 (<abbr title="Rocket Internet gmbh, Sydney, Australia">Rocket Internet, Dec 2011 - Feb 2011</abbr>) 
-In a team of 20 developer my main focus was development of new features and bug fixing on their **e-commerce solution** based on **Zend Framework** and **Yii Framework** infrastructure plus **memcache** and **Solr**.
+In a team of 20 developer my main focus was development of new features and bug fixing on their **e-commerce solution** based on **Zend Framework** and **Yii Framework** infrastructure plus **memcached** and **Solr**.
 
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL, Sep 2008 - Sep 2011</abbr>) 
-Soft-Net is a little software company based in Sassuolo, the company is to offer a complete IT support to their client selling hardware, software, website design, CRM, hosting, search engine optimization, technical support, and network design.
-My duties were:
+Soft-Net is a little software house, the company is to offer a complete IT support to their clients selling hardware, software, website design, CRM, hosting, search engine optimization, technical support, and network design.
+In the years there I could work on a wide range of different technologies and problems:
+
 Internal custom CMS development based on **PHP**, **MySql** and **Zend Framework**.
-Integration of the CMS with customer’s ERP/CRM.(**Rest**/**Soap**/**CSV**)
+
+Integration of the CMS with customer’s ERP/CRM.(**Rest**/**Soap**/**CSV**).
+
 Development and deployment of dynamic websites and web applications most of them based on **LAMP stack**.
+
 Development of a custom reporting platform using **Apache Fop**, **XSLT** on **LAMP** infrastructure.
+
 **Domains** and **hosting** management.
+
 Migration of the existing projects to new infrastructures.
+
 Search Engine Optimization(**SEO**).
+
 Support other dev team while working on critical projects(**Python**/**C++**).
+
 Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
 
 ## About myself ##
