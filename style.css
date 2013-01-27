@@ -4,12 +4,12 @@ body{
     color: #222;
     line-height: 1.625em;
 }
-#content{
+.content{
     text-align: justify;
-    width:780px;
+    width:70%;
     margin:0 auto;
 }
-#content h3 {
+.content h3 {
     color: #444444;
     float: left;
     font-weight: 600;
