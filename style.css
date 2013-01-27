@@ -1,4 +1,10 @@
-.container{
+body{
+    margin: 0;
+    font: 14px Helvetica, sans-serif;
+    color: #222;
+    line-height: 1.625em;
+}
+#content{
     width:780px;
     margin:0 auto;
 }
