@@ -20,22 +20,22 @@ Italian
 * Spanish (Moderate)
 
 ## Key Skills ##
-PHP5 Advanced
-Zend Advanced
-Yii Advanced
-SQL Advanced
-MySql Advanced
-PostgreSQL Advanced
-Javascript Advanced
-JQuery Advanced
-BackBone Mid
-AngularJS Junior
-HTML Advanced
-CSS Advanced( I love LESS! )
-C++ Mid
-Python Mid
-Django Mid
-Apache Advanced
-Nginx Junior
-GIT/SVN Mid/Advanced
-BASH Junior
+*_PHP5_ Advanced
+*_Zend_ Advanced
+*_Yii_ Advanced
+*_SQL_ Advanced
+*_MySql_ Advanced
+*_PostgreSQL_ Advanced
+*_Javascript_ Advanced
+*_JQuery_ Advanced
+*_BackBone_ Mid
+*_AngularJS_ Junior
+*_HTML_ Advanced
+*_CSS_ Advanced( I love LESS! )
+*_C++_ Mid
+*_Python_ Mid
+*_Django_ Mid
+*_Apache_ Advanced
+*_Nginx_ Junior
+*_GIT/SVN_ Mid/Advanced
+*_BASH_ Junior
