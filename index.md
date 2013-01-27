@@ -70,7 +70,7 @@ The project is developed using **PHP** (**Yii Framework**), **Bootstrap.js**, **
 In the meantime I also take care of the development and deployment client's’ mobile websites getting data from their Backend System and integrate different CRM/ERP systems most of the times through **RestFul**/**SOAP** API.
 
 ### Mar 2012 - Jun 2012  ###
-(<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be & Partners, Mar 2012 - Jun 2012</abbr>) 
+(<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners, Mar 2012 - Jun 2012</abbr>) 
 Be & Partners is a digital media company, I worked on their CMS written in **PHP** and based on **Zend Framework**, adding many new feature:
 It can now support multiple products list and multiple localizations (**ZendLocale**), the products catalogues can be downloaded as Pdf generated from the product's database(**ZendPdf**).
 
