@@ -23,6 +23,10 @@ body{
 p, blockquote, pre, code, samp, dl, ol, ul, h4{
     margin:0px;
 }
+#keySkill{margin-left:25px;}
+#keySkill > ul{
+    column-count: 2;
+}
 .left{
     float:left;
 }
