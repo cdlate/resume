@@ -2,6 +2,13 @@
 title: Alberto's CV
 layout: index
 ---
+### Me ###
+
+Hi, my name is Alberto Tedeschi, I was born in September 7, 1985, I am a software ##developer##, during my years of programming I played around with many different technologies and language, but my main focus is around the web development.
+
+I love programming, challenge and learning. During the years I've mastered PHP and Javascript and I am fluent in many other languages like Python, C++, Java next on my todo list C#!
+
+I want to join an enthusiastic and passionate team. Fast pace environments doesn’t scare me.
 
 ## Employment History ##
 
