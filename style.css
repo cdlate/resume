@@ -1,12 +1,12 @@
 body{
     margin: 0;
-    font: 14px Helvetica, sans-serif;
+    font: 1em Helvetica, sans-serif;
     color: #222;
     line-height: 1.625em;
 }
 .content{
     text-align: justify;
-    width:70%;
+    width:80%;
     margin:0 auto;
 }
 .content h3 {
@@ -18,7 +18,7 @@ body{
     position: absolute;
     text-align: right;
     width: 140px;
-    font-size:0.9em;
+    font-size:1em;
 }
 
 p, blockquote, pre, code, samp, dl, ol, ul, h4{
@@ -31,58 +31,3 @@ blockquote{
 }
 
 
-@media print {
-    a, a:visited
-    {
-        color: #222 !important;
-        text-decoration: none;
-    }
-    a[href]:after
-    {
-        content: " (" attr(href) ")";
-    }
-    abbr
-    {
-        content: "";
-    }
-    abbr[title]:after
-    {
-        content: " " attr(title) "";
-    }
-    img
-    {
-        page-break-inside: avoid;
-    }
-
-    p, h2, h3
-    {
-        orphans: 3;
-        widows: 3;
-    }
-    h2, h3
-    {
-        page-break-after: avoid;
-    }
-    pre
-    {
-        padding: 0;
-    }
-    .content
-    {
-        margin-top: 0;
-    }
-    #forkme, #buttons
-    {
-        display: none;
-    }
-    .content h3
-    {
-        position:relative;
-        margin-left: 0 !important;
-        float: none;
-        text-align: left;
-        font-weight: 700;
-        color: #444;
-        width: auto;
-    }
-}
