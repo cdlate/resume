@@ -4,12 +4,9 @@ body{
     color: #222;
     line-height: 1.625em;
 }
-.content{
-    text-align: justify;
-    width:70%;
-    margin:0 auto;
+h1{
+    font-size: 4.25em;
 }
-
 p, blockquote, pre, code, samp, dl, ol, ul, h4{
     margin:0px;
 }
@@ -18,7 +15,20 @@ blockquote{
     padding-left: 1.475em;
     border-left: 3px solid #ccc;
 }
-
+pre{
+    background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    font-family: Menlo,Consolas,'DejaVu Sans Mono',Monaco,monospace;
+    padding: 11px;
+}
+.content{
+    text-align: justify;
+    width:70%;
+    margin:0 auto;
+}
+.gargravarr{
+    display:none;
+}
 #buttons
 {
     position: absolute;
