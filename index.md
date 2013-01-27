@@ -15,11 +15,11 @@ Tedeschi
 ### Nationality ###
 Italian
 ### Italian ### 
-(Mother Tongue)
+Mother Tongue
 ### English ### 
-(Fluent)
+Fluent
 ### Spanish ### 
-(Moderate)
+Moderate
 
 ## Key Skills ##
 ### _PHP5_ ### 
