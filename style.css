@@ -9,7 +9,7 @@ body{
     width:780px;
     margin:0 auto;
 }
-#content h2, #content h3 {
+#content h3 {
     color: #444444;
     float: left;
     font-weight: 600;

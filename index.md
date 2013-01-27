@@ -14,49 +14,48 @@ Tedeschi
 07/09/1985 
 ### Nationality ###
 Italian
-### Languages ###
-* Italian (Mother Tongue)
-* English (Fluent)
-* Spanish (Moderate)
+### Italian ### (Mother Tongue)
+### English ### (Fluent)
+### Spanish ### (Moderate)
 
 ## Key Skills ##
-* _PHP5_ 
+### _PHP5_ ### 
+Advanced 
+### _Zend_ ###
 Advanced
-* _Zend_ 
+### _Yii_ ###
 Advanced
-* _Yii_ 
+### _SQL_ ###
 Advanced
-* _SQL_ 
+### _MySql_ ###
 Advanced
-* _MySql_ 
+### _PostgreSQL_ ###
 Advanced
-* _PostgreSQL_ 
+### _Javascript_ ###
 Advanced
-* _Javascript_ 
+### _JQuery_ ###
 Advanced
-* _JQuery_ 
-Advanced
-* _BackBone_ 
+### _BackBone_ ###
 Mid
-* _AngularJS_ 
+### _AngularJS_ ### 
 Junior
-* _HTML_ 
+### _HTML_ ###
 Advanced
-* _CSS_ 
+### _CSS_ ###
 Advanced( I love LESS! )
-* _C++_ 
+### _C++_ ###
 Mid
-* _Python_ 
+### _Python_ ###
 Mid
-* _Django_ 
+### _Django_ ###
 Mid
-* _Apache_ 
+### _Apache_ ###
 Advanced
-* _Nginx_ 
+### _Nginx_ ###
 Junior
-* _GIT/SVN_ 
+### _GIT/SVN_ ###
 Mid/Advanced
-* _BASH_ 
+### _BASH_ ### 
 Junior
 
 ## Employment History ##
