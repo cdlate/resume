@@ -22,7 +22,7 @@ In the meantime I also develop and deploy client's’ mobile websites getting da
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
-Be & Partners is a digital media company, I worked on their CMS written in **PHP** and based on **Zend Framework**, adding many new feature:
+ is a digital media company, I worked on their CMS written in **PHP** and based on **Zend Framework**, adding many new feature:
 * It can now support multiple products list and multiple localizations, the products catalogues can be downloaded as Pdf generated from the product's database.
 * Designed and implemented a set of **RestFul API** to import the products lists.
 * Designed and implemented a proper ACL system.
