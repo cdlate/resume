@@ -23,9 +23,9 @@ In the meantime I also develop and deploy client's’ mobile websites getting da
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
 Be & Partners is a digital media company, I worked on their CMS written in **PHP** and based on **Zend Framework**, adding many new feature:
-* It can now support multiple products list and multiple localizations (**Zend_Locale**), the products catalogues can be downloaded as Pdf generated from the product's database(**Zend_Pdf**).
+* It can now support multiple products list and multiple localizations, the products catalogues can be downloaded as Pdf generated from the product's database.
 * Designed and implemented a set of **RestFul API** to import the products lists.
-* Designed and implemented a proper ACL system(**Zend_Acl**).
+* Designed and implemented a proper ACL system.
 * Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
 After that me and a colleague used this updated version of the CMS to develop the deroma's website, which is now live in Italy, France, Spain and some other countries.
 
@@ -40,7 +40,7 @@ My duties were:
 
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL</abbr>) 
-Soft-Net is a little software house, the company is to offer a complete IT support to their clients selling hardware, software, website design, CRM, hosting, search engine optimization, technical support, and network design.
+ is a little software house, the company is to offer a complete IT support to their clients selling hardware, software, website design, CRM, hosting, search engine optimization, technical support, and network design.
 In the years there I could work on a wide range of different technologies and languages:
 * Internal custom CMS development based on **PHP**, **Javascript**, **MySql** and **Zend Framework**.
 * Integration of the CMS with customer’s ERP/CRM.(**Rest**/**Soap**/**CSV**).
