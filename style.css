@@ -3,15 +3,13 @@ body{
     font: 12px Helvetica, sans-serif;
     color: #222;
     margin: 20px 0;
+    line-height: 1.3em;
 }
 h1{
     font-size: 4.25em;
 }
-blockquote, pre, code, samp, dl, ol, ul, h4{
-    margin:0px;
-}
-p{
-    margin-bottom:5px;
+blockquote, pre, code, samp, dl, ol, ul, h4, p{
+    margin: 0 0 1.625em;
 }
 blockquote{
     font-style: italic;
@@ -26,7 +24,7 @@ pre{
 }
 .content{
     text-align: justify;
-    width:70%;
+    width:80%;
     margin:0 auto;
 }
 .gargravarr{
