@@ -26,6 +26,11 @@ abbr[title], dfn[title] {
     border-bottom: 1px dotted #333;
     cursor: help;
 }
+a, a:visited
+{
+    color: #222 !important;
+    text-decoration: none;
+}
 .content{
     text-align: justify;
     width:70%;
