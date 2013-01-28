@@ -3,7 +3,7 @@ body{
     font: 12px Helvetica, sans-serif;
     color: #222;
     margin: 20px 0;
-    line-height: 1.3em;
+    line-height: 1.5em;
 }
 h1{
     font-size: 4.25em;
@@ -22,9 +22,13 @@ pre{
     font-family: Menlo,Consolas,'DejaVu Sans Mono',Monaco,monospace;
     padding: 11px;
 }
+abbr[title], dfn[title] {
+    border-bottom: 1px dotted #333;
+    cursor: help;
+}
 .content{
     text-align: justify;
-    width:80%;
+    width:70%;
     margin:0 auto;
 }
 .gargravarr{
@@ -50,3 +54,4 @@ pre{
     border: 0;
 }
 #forkme img,a{border:0px;}
+

@@ -35,7 +35,8 @@ pre
 }
 .content
 {
-    margin-top: 0;
+    width:80%;
+    margin:0 auto;
 }
 #forkme, #buttons
 {
