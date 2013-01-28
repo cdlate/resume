@@ -1,8 +1,7 @@
 body{
     margin: 0;
-    font: 0.8em Helvetica, sans-serif;
+    font: 12px Helvetica, sans-serif;
     color: #222;
-    line-height: 1.625em;
     margin: 20px 0;
 }
 h1{
