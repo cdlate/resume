@@ -37,3 +37,7 @@ pre
 {
     display: none;
 }
+a, a:visited
+{
+    text-decoration: none;
+}

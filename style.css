@@ -28,8 +28,8 @@ abbr[title], dfn[title] {
 }
 a, a:visited
 {
-    color: #222 !important;
-    text-decoration: none;
+    color: #222;
+    text-decoration: underline;
 }
 .content{
     text-align: justify;
