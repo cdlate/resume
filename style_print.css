@@ -2,13 +2,9 @@ a[href]:after
 {
     content: " (" attr(href) ")";
 }
-abbr
-{
-    content: "";
-}
 abbr[title]:after
 {
-    content: " " attr(title) "";
+    content: " " attr(title) " ";
 }
 img
 {
