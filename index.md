@@ -1,3 +1,7 @@
+---
+title: Alberto's CV
+layout: index
+---
 # Alberto Tedeschi #
 
 Hi, my name is Alberto Tedeschi, I was born in September 7, 1985, I am a software **developer**, during my years of programming I played around with many different technologies and languages, but my main focus is around the web development.
@@ -47,3 +51,4 @@ In the years there I could work on a wide range of different technologies and la
 * Search Engine Optimization (**SEO**).
 * Support other dev team while working on critical projects (**Python**/**C++**).
 * Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
+
