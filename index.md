@@ -1,7 +1,3 @@
----
-title: Alberto's CV
-layout: index
----
 # Alberto Tedeschi #
 
 Hi, my name is Alberto Tedeschi, I was born in September 7, 1985, I am a software **developer**, during my years of programming I played around with many different technologies and languages, but my main focus is around the web development.
@@ -51,18 +47,3 @@ In the years there I could work on a wide range of different technologies and la
 * Search Engine Optimization(**SEO**).
 * Support other dev team while working on critical projects(**Python**/**C++**).
 * Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
-
-## tl;dr ##
-> I wrote my first line of **BASIC** when I was 8 or so, thanks to my big bro who was studying Computer Science at the Modena University, on my beloved Commodore 64.
-> After that I started to watch at him as my grand master and started to learn about variables, logic instructions, and iteration. 
-> Few months later since my brother started to work I left the programming for a while and enjoyed friends and the county life in my hometown.
-> I re started to code again when I arrived at high school using many different languages: **PHP**, **Visual Basic**, **Pascal**, **C++**. 
-> In the meanwhile since I wasn’t satisfied about the school (The IT course was too easy!) I started play around using **C++** and **OpenGL**.
-> Was so funny when two years later I had to develop my final exam project: a video surveillance software written using Borland **C++** Builder in less than 2 weeks instead of 2 months.
-> It could support up to 16 cameras and also had motion detection (Thanks to the cameras libraries in bundle). I loved it!
-> At the university I chose to study Physics (Computational physics courses were looking so nice), and my math was so horrible after high school!
-> During the University I developed some projects in **FORTRAN** and a website for my Starcraft team (now only the forum still up at this address: http://www.clan-the.net/forum/). 
-> Ended my studies I started to work in Soft-net srl in Sassuolo, and stopped to develop my own projects, but pushed by my perfectionism I continued to study and test new technologies to make my workplace, workflows and my code better and better.
-> Everything else is recent history: I left my job in Italy and started to travel around Australia, worked 3 months in Rocket internet, where I successfully solved many bugs, implemented some nice feature on their e-commerce system and assisted them during the launch of (theiconic.com.au and zanui.com.au).
-> I had to move back in Italy since my mum had some serious health problems, there I started to work for “Be & Partners” and collaborate(again) with “Soft-Net” .
-> Now luckily the problems at home are gone, so I’m back in Oz now working at Gomeeki, but looking ahead for new challenges.
