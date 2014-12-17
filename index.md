@@ -27,7 +27,6 @@ Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo
 I joined Gomeeki as senior developer, during the ten month I spent there I was able to successfully deliver a number of mobile websites, 
 develop the reporting side of their marketing SaaS platform named Ubiquity( www.gomeeki.com.au/platform ) and re-factored most of the existing legacy marketing 
 application inherited from a company acquisition.
-
 Methodology: Agile/Scrum, CI.
 Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
 Tools: Git, GitHub, New Relic.
@@ -39,7 +38,6 @@ new client requirements.
 During the three month I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple Localizations, 
 all the products catalogues are downloadable as PDF documents, the products lists can be updated using web services, the product images are now auto-cropped and resized
 The updated CMS has been used to develop the website www.deroma.com, which is now live in Italy, Us, France, Spain and Japan.
-
 Methodology: Waterfall.
 Technologies: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
 Tools: SVN, Custom ticketing system, NetBeans.
@@ -48,8 +46,7 @@ Tools: SVN, Custom ticketing system, NetBeans.
 (<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) 
 The team counted around ten developers, I joined them as Junior developer since it was my first Aussie job my main focus was around development of new features and bug fixing on their e-commerce solution, 
 Reintegration of core updates into our custom build, merge branches from the Devs and deployments.
-
-Methodology: Agile/Scrum and Agile/KanBan
+Methodology: Agile/Scrum and Agile/KanBan.
 Technologies: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
 Tools: SVN, Jira, Confluence, PhpStorm.
 
