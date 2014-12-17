@@ -4,60 +4,88 @@ layout: index
 ---
 # Alberto Tedeschi #
 
-Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a software **developer**,
- during my six years of commercial experience as coder I've mastered PHP, Javascript and I am fluent in many other languages like C#, Python, C++, Java.
+Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a software **developer**, 
+ during my six years of commercial experience and probably many more as amateur coder I've mastered PHP, Javascript, I am quite good in C# and fluent in many others Python, C++, Java.
 
-I want to join an enthusiastic and passionate team. Fast pace environments doesn't scare me.
+I want to join an enthusiastic and passionate team. Fast pace environments doesn't scare me, I am flexible with the toolset used if it’s the right one for the job and I’m more than happy to learn new technologies..
 
-## Employment History ##
+## Professional Experience ##
 
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
-My main task is the development of their tracing platform, basically an aggregator of statistical data coming from different tracking engines.
+I Joined Gofundraise as Junior developer, I am now the lead developer.
+Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Test up to date. 
+During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to move our main project to Amazon AWS, launch our services in New Zealand, 
+Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of improvements.
 
-The project is developed using **PHP** (**Yii Framework**), **Bootstrap.js**, **JQuery**, **BackBone**, **GA API**, **Piwik** and his API,  I take care of both the frontend and backend development.
-
-In the meantime I also develop and deploy client's mobile websites getting data from their backend System and integrating different CRM/ERP systems most of the them through **RestFul**/**SOAP** API.
-
+Methodology: Agile/Scrum, CI.
+Technology: C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
+Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket )
 
 ### Jun 2012 - Apr 2013 ###
 (<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) 
-My main task is the development of their tracing platform, basically an aggregator of statistical data coming from different tracking engines.
+I joined Gomeeki as senior developer, during the ten month I spent there I was able to successfully deliver a number of mobile websites, 
+develop the reporting side of their marketing SaaS platform named Ubiquity( www.gomeeki.com.au/platform ) and re-factored most of the existing legacy marketing 
+application inherited from a company acquisition.
 
-The project is developed using **PHP** (**Yii Framework**), **Bootstrap.js**, **JQuery**, **BackBone**, **GA API**, **Piwik** and his API,  I take care of both the frontend and backend development.
-
-In the meantime I also develop and deploy client's mobile websites getting data from their backend System and integrating different CRM/ERP systems most of the them through **RestFul**/**SOAP** API.
+Methodology: Agile/Scrum, CI.
+Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
+Tools: Git, GitHub, New Relic.
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
- is a digital media company, I worked on their CMS written in **PHP** and based on **Zend Framework**, adding many new feature:
-* It can now support multiple products list and multiple localizations, the products catalogues can be downloaded as Pdf generated from the product's database.
-* Designed and implemented a set of **RestFul API** to import the products lists.
-* Designed and implemented a proper ACL system.
-* Now their CMS have a proper image uploader and resizer, developed using **JQuery** and **GDLib**.
-After that me and a colleague used this updated version of the CMS to develop the deroma's website, which is now live in Italy, Us, France, Spain and Japan.
+I joined Be &amp; Partners as senior developer, my main duty was to extend the functionalities of their existing custom CMS system in order to make it able to handle 
+new client requirements.
+During the three month I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple Localizations, 
+all the products catalogues are downloadable as PDF documents, the products lists can be updated using web services, the product images are now auto-cropped and resized
+The updated CMS has been used to develop the website www.deroma.com, which is now live in Italy, Us, France, Spain and Japan.
 
-### Dec 2011 - Feb 2011 ###
-(<abbr title="Rocket Internet gmbh, Sydney, Australia">Rocket Internet</abbr>) 
-In a team of 20 developer my main focus was development of new features and bug fixing on their **e-commerce solution** based on **Zend Framework** and **Yii Framework** plus **memcached** and **Solr**.
-This has been the most wonderful and exiting working experience I've ever had, the team managed through **agile/scrum** methodology.
-My duties were:
-* Reintegration of core updates into our custom build.
-* Bug fixing their ecommerce system on both the frontend and backend.
-* Implement some new features (Eg. Css/Js minifier).
-* Merge and deploy branches from the Devs and teach to the new guys our internal processes.
+Methodology: Waterfall.
+Technologies: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
+Tools: SVN, Custom ticketing system, NetBeans.
+
+### Oct 2011 - Feb 2011 ###
+(<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) 
+The team counted around ten developers, I joined them as Junior developer since it was my first Aussie job my main focus was around development of new features and bug fixing on their e-commerce solution, 
+Reintegration of core updates into our custom build, merge branches from the Devs and deployments.
+
+Methodology: Agile/Scrum and Agile/KanBan
+Technologies: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
+Tools: SVN, Jira, Confluence, PhpStorm.
 
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL</abbr>) 
- is a little software house, the company is to offer a complete IT support to their clients selling hardware, software, website design, CRM, hosting, search engine optimization, technical support, and network design.
-In the years there I could work on a wide range of different technologies and languages:
-* Internal custom CMS development based on **PHP**, **Javascript**, **MySql** and **Zend Framework**.
-* Integration of the CMS with customer's ERP/CRM (**Rest**/**Soap**/**CSV**).
-* Development and deployment of dynamic websites and web applications most of them based on **LAMP stack**.
-* Development of a custom reporting platform using **Apache Fop**, **XSLT** on **LAMP** infrastructure.
-* **Domains** and **hosting** management.
+ is a little software house, the company is to offers a wide range of IT services to their clients selling hardware, custom software, website design, CRM, hosting, search engine optimization, technical support, and network design.
+I joined the company as junior developer and ended up after three years managing their cloud infrastructure and architect and implement all their web projects:
+My duties included:
+* Custom CMS development.
+* Integration of the CMS with customer's ERP/CRM.
+* Development and deployment of dynamic websites usually based on our custom CMS solution and web applications.
+* Development of a custom reporting platform.
+* Domains and hosting management.
 * Migration of the existing projects to new infrastructures.
-* Search Engine Optimization (**SEO**).
-* Support other dev team while working on critical projects (**C++**).
-* Client website and integrations something like 30 websites web apps and some e-commerce based on **Magento** and **ZenCart**.
+* Search Engine Optimization (SEO) was part of my routine as main developer of CMS solutions.
+* Support other DEVs team while working on critical projects (C++).
+* Client website and integrations something like 30 websites web apps and some e-commerce based on Magento and ZenCart.
 
+Methodology: Agile/Scrum and Waterfall for little projects.
+Technologies: Zend, MySql, JQuery, Javascript, Rest/Soap web services, Apache Fop, XSLT, C++, Visual Basic.
+Tools: SVN, Custom ticketing system, NetBeans/Visual Studio.
+
+## Personal Experience ##
+
+### 2007 - Now ###
+Keep study new languages/algorithm and picking up other IT related skills, Coursera for president.
+
+### 2007 ###
+Successfully passed my computational physics exam with an implementation of the Monte Carlo method in Fortran.
+
+### 2005 ###
+Successfully developed a video surveillance software in C++ with motion detection and able to handle up to 16 cameras as my final exam project at high school.  
+
+### 2003 - 2004 ###
+During high school I had a lot of time to spend on my keyboard so I tried to develop my own video game in C++, I could successfully implement the controls and some of the graphics using OpenGL and DirectInput.
+Developing a video game is quite a big job for only one dev so I gave up.
+
+### 2002 ###
+Developed a dynamic website for my Starcraft clan base on LAMP stack, today only the forum is still up ( www.clan-the.net/forum/ ).
