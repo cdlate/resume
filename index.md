@@ -14,15 +14,18 @@ Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
 I Joined Gofundraise as Junior developer, I am now the lead developer.
-Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Test up to date. 
+Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Tests up to date. 
+
 During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to move our main project to Amazon AWS, launch our services in New Zealand, 
+
 Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of improvements.
 
-Methodology: Agile/Scrum, CI.
 
-Technology: C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
+####Methodology####: Agile/Scrum, CI.
 
-Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
+####Technology####: C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
+
+####Tools####: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
 
 
 ### Jun 2012 - Apr 2013 ###
@@ -30,9 +33,9 @@ Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo
 I joined Gomeeki as senior developer, during the ten month I spent there I was able to successfully deliver a number of mobile websites, 
 develop the reporting side of their marketing SaaS platform named Ubiquity( www.gomeeki.com.au/platform ) and re-factored most of the existing legacy marketing 
 application inherited from a company acquisition.
-Methodology: Agile/Scrum, CI.
-Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
-Tools: Git, GitHub, New Relic.
+####Methodology####: Agile/Scrum, CI.
+####Technologies####: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
+####Tools####: Git, GitHub, New Relic.
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
@@ -43,23 +46,24 @@ During the three month I worked there I was able to implement a number of featur
 all the products catalogues are downloadable as PDF documents, the products lists can be updated using web services, the product images are now auto-cropped and resized
 The updated CMS has been used to develop the website www.deroma.com, which is now live in Italy, Us, France, Spain and Japan.
 
-Methodology: Waterfall.
+####Methodology####: Waterfall.
 
 
-Technologies: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
+####Technologies####: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
 
-Tools: SVN, Custom ticketing system, NetBeans.
+####Tools####: SVN, Custom ticketing system, NetBeans.
 
 
 ### Oct 2011 - Feb 2011 ###
 (<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) 
 The team counted around ten developers, I joined them as Junior developer since it was my first Aussie job my main focus was around development of new features and bug fixing on their e-commerce solution, 
 Reintegration of core updates into our custom build, merge branches from the Devs and deployments.
-Methodology: Agile/Scrum and Agile/KanBan.
 
-Technologies: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
+####Methodology####: Agile/Scrum and Agile/KanBan.
 
-Tools: SVN, Jira, Confluence, PhpStorm.
+####Technologies####: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
+
+####Tools####: SVN, Jira, Confluence, PhpStorm.
 
 
 ### Sep 2008 - Sep 2011 ###
