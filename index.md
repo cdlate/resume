@@ -21,11 +21,11 @@ During the two years I worked at Gofundraise our team was able to deliver a numb
 Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of improvements.
 
 
-####Methodology####: Agile/Scrum, CI.
+####Methodology#### : Agile/Scrum, CI.
 
-####Technology####: C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
+####Technology#### : C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
 
-####Tools####: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
+####Tools#### : ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
 
 
 ### Jun 2012 - Apr 2013 ###
@@ -33,9 +33,12 @@ Automate the UI Testing using Selenium, launch our public API, provided our part
 I joined Gomeeki as senior developer, during the ten month I spent there I was able to successfully deliver a number of mobile websites, 
 develop the reporting side of their marketing SaaS platform named Ubiquity( www.gomeeki.com.au/platform ) and re-factored most of the existing legacy marketing 
 application inherited from a company acquisition.
-####Methodology####: Agile/Scrum, CI.
-####Technologies####: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
-####Tools####: Git, GitHub, New Relic.
+####Methodology#### : Agile/Scrum, CI.
+
+####Technologies#### : Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
+
+####Tools#### : Git, GitHub, New Relic.
+
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
