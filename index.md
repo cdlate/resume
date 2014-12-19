@@ -21,11 +21,11 @@ During the two years I worked at Gofundraise our team was able to deliver a numb
 Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of improvements.
 
 
-#### Methodology : Agile/Scrum, CI.
+#### Methodology: Agile/Scrum, CI.
 
-#### Technology : C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
+#### Technology: C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
 
-#### Tools : ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
+#### Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
 
 
 ### Jun 2012 - Apr 2013 ###
@@ -33,11 +33,11 @@ Automate the UI Testing using Selenium, launch our public API, provided our part
 I joined Gomeeki as senior developer, during the ten month I spent there I was able to successfully deliver a number of mobile websites, 
 develop the reporting side of their marketing SaaS platform named Ubiquity( www.gomeeki.com.au/platform ) and re-factored most of the existing legacy marketing 
 application inherited from a company acquisition.
-####Methodology#### : Agile/Scrum, CI.
+####Methodology: Agile/Scrum, CI.
 
-#### Technologies #### : Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
+#### Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
 
-#### Tools #### : Git, GitHub, New Relic.
+#### Tools: Git, GitHub, New Relic.
 
 
 ### Mar 2012 - Jun 2012  ###
@@ -49,12 +49,12 @@ During the three month I worked there I was able to implement a number of featur
 all the products catalogues are downloadable as PDF documents, the products lists can be updated using web services, the product images are now auto-cropped and resized
 The updated CMS has been used to develop the website www.deroma.com, which is now live in Italy, Us, France, Spain and Japan.
 
-#### Methodology #### : Waterfall.
+#### Methodology: Waterfall.
 
 
-#### Technologies #### : Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
+#### Technologies: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
 
-#### Tools #### : SVN, Custom ticketing system, NetBeans.
+#### Tools: SVN, Custom ticketing system, NetBeans.
 
 
 ### Oct 2011 - Feb 2011 ###
@@ -62,11 +62,11 @@ The updated CMS has been used to develop the website www.deroma.com, which is no
 The team counted around ten developers, I joined them as Junior developer since it was my first Aussie job my main focus was around development of new features and bug fixing on their e-commerce solution, 
 Reintegration of core updates into our custom build, merge branches from the Devs and deployments.
 
-#### Methodology #### : Agile/Scrum and Agile/KanBan.
+#### Methodology: Agile/Scrum and Agile/KanBan.
 
-#### Technologies #### : Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
+#### Technologies: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
 
-#### Tools #### : SVN, Jira, Confluence, PhpStorm.
+#### Tools: SVN, Jira, Confluence, PhpStorm.
 
 
 ### Sep 2008 - Sep 2011 ###
