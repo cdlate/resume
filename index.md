@@ -115,7 +115,22 @@ Successfully developed a video surveillance software in C++ with motion detectio
 
 ### 2003 - 2004 ###
 During high school I had a lot of time to spend on my keyboard so I tried to develop my own video game in C++, I could successfully implement the controls and some of the graphics using OpenGL and DirectInput.
-Developing a video game is quite a big job for only one dev so I gave up.
+Developing a video game is quite a big job for only one dev, I got lost trying to import models from 3D Studio.
 
 ### 2002 ###
 Developed a dynamic website for my Starcraft clan base on LAMP stack, today only the forum is still up ( www.clan-the.net/forum/ ).
+
+### 1997 ###
+My first line of code in basic on a commodore 64.
+
+
+## Education ##
+
+### Modena University 2006/2010###
+
+Six major still left, hopefully at some point I'll be able to finish off, I'm still studyng anyway... 
+
+### Itis F. Corni, Modena, Italy 2004/2005 
+
+Got my IT Diploma 87/100.
+
