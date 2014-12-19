@@ -19,8 +19,11 @@ During the two years I worked at Gofundraise our team was able to deliver a numb
 Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of improvements.
 
 Methodology: Agile/Scrum, CI.
+
 Technology: C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
-Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket )
+
+Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
+
 
 ### Jun 2012 - Apr 2013 ###
 (<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) 
@@ -35,35 +38,55 @@ Tools: Git, GitHub, New Relic.
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
 I joined Be &amp; Partners as senior developer, my main duty was to extend the functionalities of their existing custom CMS system in order to make it able to handle 
 new client requirements.
+
 During the three month I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple Localizations, 
 all the products catalogues are downloadable as PDF documents, the products lists can be updated using web services, the product images are now auto-cropped and resized
 The updated CMS has been used to develop the website www.deroma.com, which is now live in Italy, Us, France, Spain and Japan.
+
 Methodology: Waterfall.
+
+
 Technologies: Linux, Apache, MySql, Php, Zend, JQuery, GDLib, Varnish, GDLib, WebServices, Less.
+
 Tools: SVN, Custom ticketing system, NetBeans.
+
 
 ### Oct 2011 - Feb 2011 ###
 (<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) 
 The team counted around ten developers, I joined them as Junior developer since it was my first Aussie job my main focus was around development of new features and bug fixing on their e-commerce solution, 
 Reintegration of core updates into our custom build, merge branches from the Devs and deployments.
 Methodology: Agile/Scrum and Agile/KanBan.
+
 Technologies: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
+
 Tools: SVN, Jira, Confluence, PhpStorm.
+
 
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL</abbr>) 
  is a little software house, the company is to offers a wide range of IT services to their clients selling hardware, custom software, website design, CRM, hosting, search engine optimization, technical support, and network design.
 I joined the company as junior developer and ended up after three years managing their cloud infrastructure and architect and implement all their web projects:
+
 My duties included:
+
 * Custom CMS development.
+
 * Integration of the CMS with customer's ERP/CRM.
+
 * Development and deployment of dynamic websites usually based on our custom CMS solution and web applications.
+
 * Development of a custom reporting platform.
+
 * Domains and hosting management.
+
 * Migration of the existing projects to new infrastructures.
+
 * Search Engine Optimization (SEO) was part of my routine as main developer of CMS solutions.
+
 * Support other DEVs team while working on critical projects (C++).
+
 * Client website and integrations something like 30 websites web apps and some e-commerce based on Magento and ZenCart.
+
 
 Methodology: Agile/Scrum and Waterfall for little projects.
 Technologies: Zend, MySql, JQuery, Javascript, Rest/Soap web services, Apache Fop, XSLT, C++, Visual Basic.
