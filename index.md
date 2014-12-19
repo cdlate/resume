@@ -96,9 +96,11 @@ My duties included:
 * Client website and integrations something like 30 websites web apps and some e-commerce based on Magento and ZenCart.
 
 
-Methodology: Agile/Scrum and Waterfall for little projects.
-Technologies: Zend, MySql, JQuery, Javascript, Rest/Soap web services, Apache Fop, XSLT, C++, Visual Basic.
-Tools: SVN, Custom ticketing system, NetBeans/Visual Studio.
+#### Methodology: Agile/Scrum and Waterfall for little projects.
+
+#### Technologies: Zend, MySql, JQuery, Javascript, Rest/Soap web services, Apache Fop, XSLT, C++, Visual Basic.
+
+#### Tools: SVN, Custom ticketing system, NetBeans/Visual Studio.
 
 ## Personal Experience ##
 
