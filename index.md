@@ -33,9 +33,10 @@ Automate the UI Testing using Selenium, launch our public API, provided our part
 I joined Gomeeki as senior developer, during the ten month I spent there I was able to successfully deliver a number of mobile websites, 
 develop the reporting side of their marketing SaaS platform named Ubiquity( www.gomeeki.com.au/platform ) and re-factored most of the existing legacy marketing 
 application inherited from a company acquisition.
-####Methodology: Agile/Scrum, CI.
 
-#### Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, NewRelic, Amazon AWS.
+#### Methodology: Agile/Scrum, CI.
+
+#### Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, Amazon AWS, Java.
 
 #### Tools: Git, GitHub, New Relic.
 
