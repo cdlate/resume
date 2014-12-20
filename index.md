@@ -15,10 +15,8 @@ Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
 I Joined Gofundraise as Junior developer, I am now the lead developer.
 Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Tests up to date. 
-
 During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to move our main project to Amazon AWS, launch our services in New Zealand, 
-
-Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of improvements.
+Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of other minor improvements.
 
 
 #### Methodology: Agile/Scrum, CI.
