@@ -19,9 +19,9 @@ Feel free to contact me by **email** at [alberto@tedeschi.io](mailto:alberto@ted
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
 I joined Gofundraise as *junior developer*, I am now the **lead developer**.
 
-Our team is composed by four members, my main duties as developer are to **implement new feature**, **diagnose and resolve production issues**, **maintain UI and Unit Tests** and **manage releases** when our dev manager is not in the office. 
+Our team is composed by four members, my main duties as developer are to **implement new features**, **diagnose and resolve production issues**, **maintain UI and Unit Tests** and **manage releases** when our dev manager is not in the office. 
 
-During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to migrate our main project to Amazon AWS, launch our services in New Zealand, 
+During these years at Gofundraise our team was able to deliver a number of improvements to the system: We were able to migrate our main project to Amazon AWS, launch our services in New Zealand, 
 Automate the UI Testing using Selenium, launch our **public API**, provided our partner with **sample api clients** written in C#/Python and implemented and released a number of other minor improvements.
 
 
@@ -34,7 +34,7 @@ Automate the UI Testing using Selenium, launch our **public API**, provided our 
 
 ### Jun 2012 - Apr 2013 ###
 (<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) 
-I joined Gomeeki as **senior developer**, during the ten month I spent there I was able to successfully deliver some of **mobile websites** eg. [m.ahg.com.au](http://m.ahg.com.au) Contribuited to a number of **rest apis** currently serving mobile applications( like ABC ) and developed most of the reporting side of their marketing SaaS platform named Ubiquity( [www.gomeeki.com.au/platform](http://www.gomeeki.com.au/platform) ).
+I joined Gomeeki as **senior developer**, during my time there I was able to successfully deliver some of **mobile websites** eg. [m.ahg.com.au](http://m.ahg.com.au) Contribuited to a number of **rest apis** currently serving mobile applications (like ABC) and developed most of the reporting side of their marketing SaaS platform named Ubiquity ([www.gomeeki.com.au/platform](http://www.gomeeki.com.au/platform)).
 
 #### Methodology: Agile/Scrum, CI.
 
@@ -47,7 +47,8 @@ I joined Gomeeki as **senior developer**, during the ten month I spent there I w
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
 I joined Be &amp; Partners as **senior developer**, my main duty was to extend the functionalities of their existing custom CMS system in order to make it able to handle new client requirements.
 
-During the three month I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple Localizations, all the products catalogues are downloadable as PDF documents, the products lists can be updated using **web services**, the product images are now** auto-cropped and resized**
+During the three months I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple localizations, all the products catalogues are downloadable as PDF documents, the products lists can be updated using **web services**, the product images are now **auto-cropped and resized**.
+
 The updated CMS has been used to develop the website [www.deroma.com](http://www.deroma.com), which is now live in Italy, Us, France, Spain and Japan.
 
 #### Methodology: Waterfall.
@@ -60,7 +61,7 @@ The updated CMS has been used to develop the website [www.deroma.com](http://www
 
 ### Oct 2011 - Feb 2011 ###
 (<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) 
-The team counted around ten developers, I joined them as **junior developer** since it was my first Aussie job my main focus was around development of new features and bug fixing on their **e-commerce** solution and merge core updates into our custom build.
+The team counted around ten developers; I joined them as **junior developer**, since it was my first Aussie job, my main focus was around development of new features and bug fixing on their **e-commerce** solution and merge core updates into our custom build.
 
 #### Methodology: Agile/KanBan, CI, CD.
 
@@ -71,8 +72,8 @@ The team counted around ten developers, I joined them as **junior developer** si
 
 ### Sep 2008 - Sep 2011 ###
 (<abbr title="Soft-Net SRL, Sassuolo, Italy">Soft-Net SRL</abbr>) 
- is a little software house, the company is to offers a wide range of IT services to their clients selling hardware, custom software, website design, CRM, hosting, search engine optimization, technical support, and network design.
-I joined the company as junior developer and ended up after three years managing their cloud infrastructure and architect and implement all their web projects:
+ Is a little software house, the company offers a wide range of IT services to their clients selling hardware, custom software, website design, CRM, hosting, search engine optimization, technical support, and network design.
+I was hired as junior developer, after three years I ended up managing their cloud infrastructure and architecting/implementing most of the web projects.
 
 My duties included:
 
@@ -109,16 +110,16 @@ During high school I had a lot of time to spend on my keyboard so I tried to dev
 Developing a video game is quite a big job for only one dev, I got lost trying to import models from 3D Studio.
 
 ### 2002 ###
-Developed a dynamic website for my Starcraft clan base on LAMP stack, today only the forum is still up ( www.clan-the.net/forum/ ).
+Developed a dynamic website for my Starcraft clan base on LAMP stack, today only the forum is still up ( [www.clan-the.net/forum/](http://www.clan-the.net/forum/) ).
 
 ### 1997 ###
-My first line of code in basic on a commodore 64.
+My first line of basic on a Commodore 64.
 
 ## Education ##
 
 ### Modena University 2006/2010###
 
-Six major still left, hopefully at some point I'll be able to finish off, I'm still studyng anyway... 
+Six major still left, hopefully at some point I'll be able to finish off, I'm still studying anyway... 
 
 ### Itis F. Corni, Modena, Italy 2004/2005 
 
