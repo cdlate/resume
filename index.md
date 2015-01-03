@@ -3,6 +3,14 @@ title: Alberto's CV
 layout: index
 ---
 # Alberto Tedeschi #
+Age: 29
+Nationality: Italian
+Visa Status: Sponsorship Visa subclass 457
+Experience: 4y Php/Javascript/Html, 2y .Net
+Languages: Italian mother-tongue, English fluent.
+Key Skills: .Net, Php, Http, WebApi, Rest, Javascript, Html.
+Email Address: alberto@tedeschi.io
+Phone Number: 0438373160
 
 Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a software **developer**, 
  during my six years of commercial experience and probably many more as amateur coder I've mastered PHP, Javascript, I am quite good in C# and fluent in many others Python, C++, Java.
@@ -14,7 +22,7 @@ Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
 I joined Gofundraise as Junior developer, I am now the lead developer.
-Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Tests up to date. 
+Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Tests up to date and managing releases when our dev manager is not in the office. 
 During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to move our main project to Amazon AWS, launch our services in New Zealand, 
 Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of other minor improvements.
 
