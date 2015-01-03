@@ -3,22 +3,15 @@ title: Alberto's CV
 layout: index
 ---
 # Alberto Tedeschi #
-Nationality: Italian.
+I was born on the **7th of September 1985**, I am an **Italian** **software developer**, currently living in **Sydney Australia** *Temporary Work (Skilled) visa (subclass 457)*.
 
-Age: 29.
+during my six years of commercial experience and probably many more as amateur coder I've mastered **PHP**, **Javascript**, I am really good in **C#** and **fluent** in many others **Python**, **C++**, **Java**.
 
-Visa Status: Sponsorship Visa subclass 457.
+I would like to join an **enthusiastic and passionate** team. **Fast pace** environments doesn't scare me, I am **flexible** with the toolset used if it’s the right one for the job and I’m more than **happy to learn** new technologies.
+ 
+Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb and soon hosted on Ms Azure.
 
-Experience: 6y a mix of Php/.Net/Javascript/Html.
-
-Languages: Italian mother-tongue, English fluent.
-
-Key Skills: .Net, Php, Http, WebApi, Rest, Javascript, Html.
-
-Email Address: alberto@tedeschi.io
-
-Phone Number: 0438373160
-
+Feel free to contact me by **email** at **alberto@tedeschi.io** or by **mobile 0438373160**.
 ## Professional Experience ##
 
 ### Apr 2012 - Today ###
@@ -123,7 +116,6 @@ Developed a dynamic website for my Starcraft clan base on LAMP stack, today only
 ### 1997 ###
 My first line of code in basic on a commodore 64.
 
-
 ## Education ##
 
 ### Modena University 2006/2010###
@@ -134,11 +126,3 @@ Six major still left, hopefully at some point I'll be able to finish off, I'm st
 
 Got my IT Diploma 87/100.
 
-**TL;DR**
-
-Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a **software developer**, 
- during my six years of commercial experience and probably many more as amateur coder I've mastered PHP, Javascript, I am quite good in C# and fluent in many others Python, C++, Java.
-
- I would like to join an enthusiastic and passionate team. Fast pace environments doesn't scare me, I am flexible with the toolset used if it’s the right one for the job and I’m more than happy to learn new technologies.
- 
-Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb and soon hosted on Ms Azure.
