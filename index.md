@@ -6,18 +6,12 @@ layout: index
 Age: 29
 
 Nationality: Italian
-
-Visa Status: Sponsorship Visa subclass 457
-
-Experience: 4y Php/Javascript/Html, 2y .Net
-
-Languages: Italian mother-tongue, English fluent.
-
-Key Skills: .Net, Php, Http, WebApi, Rest, Javascript, Html.
-
-Email Address: alberto@tedeschi.io
-
-Phone Number: 0438373160
+ Visa Status: Sponsorship Visa subclass 457
+ Experience: 4y Php/Javascript/Html, 2y .Net
+ Languages: Italian mother-tongue, English fluent.
+ Key Skills: .Net, Php, Http, WebApi, Rest, Javascript, Html.
+ Email Address: alberto@tedeschi.io
+ Phone Number: 0438373160
 
 
 Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a software **developer**, 
