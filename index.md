@@ -9,7 +9,7 @@ During my six years of commercial experience and probably many more as amateur c
 
 I would like to join an **enthusiastic and passionate** team. **Fast pace** environments doesn't scare me, I am **flexible** with the toolset used if it’s the right one for the job and I’m more than **happy to learn** new technologies.
  
-Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb and soon hosted on Ms Azure.
+Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb soon will be hosted on Ms Azure.
 
 Feel free to contact me by **email** at **alberto@tedeschi.io** or by **mobile 0438373160**.
 
@@ -17,7 +17,7 @@ Feel free to contact me by **email** at **alberto@tedeschi.io** or by **mobile 0
 
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
-I joined Gofundraise as junior developer, I am now the lead developer.
+I joined Gofundraise as *junior developer*, I am now the **lead developer**.
 
 Our team is composed by four members, my main duties as developer are to **implement new feature**, **diagnose and resolve production issues**, **maintain UI and Unit Tests** and **manage releases** when our dev manager is not in the office. 
 
