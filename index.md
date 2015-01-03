@@ -99,7 +99,7 @@ My duties included:
 ## Personal Experience ##
 
 ### 2007 - Now ###
-Keep study new languages/algorithm and picking up other IT related skills, Coursera for president.
+Keep studying new languages, picking up IT related skills, and playing around with .net vNext.
 
 ### 2007 ###
 Successfully passed my computational physics exam with an implementation of the Monte Carlo method in Fortran.
