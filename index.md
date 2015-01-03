@@ -7,13 +7,13 @@ layout: index
 Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a software **developer**, 
  during my six years of commercial experience and probably many more as amateur coder I've mastered PHP, Javascript, I am quite good in C# and fluent in many others Python, C++, Java.
 
- I want to join an enthusiastic and passionate team. Fast pace environments doesn't scare me, I am flexible with the toolset used if it’s the right one for the job and I’m more than happy to learn new technologies..
+ I would like to join an enthusiastic and passionate team. Fast pace environments doesn't scare me, I am flexible with the toolset used if it’s the right one for the job and I’m more than happy to learn new technologies.
 
 ## Professional Experience ##
 
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
-I Joined Gofundraise as Junior developer, I am now the lead developer.
+I joined Gofundraise as Junior developer, I am now the lead developer.
 Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Tests up to date. 
 During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to move our main project to Amazon AWS, launch our services in New Zealand, 
 Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of other minor improvements.
