@@ -5,7 +5,7 @@ layout: index
 # Alberto Tedeschi #
 I was born on the **7th of September 1985**, I am an **Italian** **software developer**, currently living in **Sydney Australia** *Temporary Work (Skilled) visa (subclass 457)*.
 
-During my six years of commercial experience and probably many more as amateur coder I've mastered **PHP**, **Javascript**, I am really good in **C#** and **fluent** in many others **Python**, **C++**, **Java**.
+During my six years of commercial experience and probably many more as amateur coder I've **mastered PHP**, **Javascript**, I am **really good in C#** and **fluent** in many others **Python**, **C++**, **Java**.
 
 I would like to join an **enthusiastic and passionate** team. **Fast pace** environments doesn't scare me, I am **flexible** with the toolset used if it’s the right one for the job and I’m more than **happy to learn** new technologies.
  
@@ -17,24 +17,24 @@ Feel free to contact me by **email** at **alberto@tedeschi.io** or by **mobile 0
 
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
-I joined Gofundraise as Junior developer, I am now the lead developer.
-Our team is composed by four members, my main duties as developer are to implement new feature, diagnose and resolve production issues, maintain UI and Unit Tests up to date and managing releases when our dev manager is not in the office. 
-During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to move our main project to Amazon AWS, launch our services in New Zealand, 
-Automate the UI Testing using Selenium, launch our public API, provided our partner with sample clients written in .Net/Python and implemented and released a number of other minor improvements.
+I joined Gofundraise as junior developer, I am now the lead developer.
+
+Our team is composed by four members, my main duties as developer are to **implement new feature**, **diagnose and resolve production issues**, **maintain UI and Unit Tests** and **manage releases** when our dev manager is not in the office. 
+
+During the two years I worked at Gofundraise our team was able to deliver a number of improvements to the system: We were able to migrate our main project to Amazon AWS, launch our services in New Zealand, 
+Automate the UI Testing using Selenium, launch our **public API**, provided our partner with **sample api clients** written in C#/Python and implemented and released a number of other minor improvements.
 
 
 #### Methodology: Agile/Scrum, CI.
 
-#### Technology: C#, Python, .Net, Entity Framework, SQL Server, Selenium, KendoUI, JQuery, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
+#### Technology: C#, Python, .Net, Entity Framework, Unity, SQL Server, Selenium, KendoUI, OAuth2, WebApi, OData, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
 
 #### Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
 
 
 ### Jun 2012 - Apr 2013 ###
 (<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) 
-I joined Gomeeki as senior developer, during the ten month I spent there I was able to successfully deliver a number of mobile websites, 
-develop the reporting side of their marketing SaaS platform named Ubiquity( www.gomeeki.com.au/platform ) and re-factored most of the existing legacy marketing 
-application inherited from a company acquisition.
+I joined Gomeeki as **senior developer**, during the ten month I spent there I was able to successfully deliver some of **mobile websites** eg. [m.ahg.com.au](http://m.ahg.com.au) Contribuited to a number of **rest apis** currently serving mobile applications( like ABC ) and developed most of the reporting side of their marketing SaaS platform named Ubiquity( [www.gomeeki.com.au/platform](http://www.gomeeki.com.au/platform) ).
 
 #### Methodology: Agile/Scrum, CI.
 
@@ -45,12 +45,10 @@ application inherited from a company acquisition.
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
-I joined Be &amp; Partners as senior developer, my main duty was to extend the functionalities of their existing custom CMS system in order to make it able to handle 
-new client requirements.
+I joined Be &amp; Partners as **senior developer**, my main duty was to extend the functionalities of their existing custom CMS system in order to make it able to handle new client requirements.
 
-During the three month I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple Localizations, 
-all the products catalogues are downloadable as PDF documents, the products lists can be updated using web services, the product images are now auto-cropped and resized
-The updated CMS has been used to develop the website www.deroma.com, which is now live in Italy, Us, France, Spain and Japan.
+During the three month I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple Localizations, all the products catalogues are downloadable as PDF documents, the products lists can be updated using **web services**, the product images are now** auto-cropped and resized**
+The updated CMS has been used to develop the website [www.deroma.com](http://www.deroma.com), which is now live in Italy, Us, France, Spain and Japan.
 
 #### Methodology: Waterfall.
 
@@ -62,10 +60,9 @@ The updated CMS has been used to develop the website www.deroma.com, which is no
 
 ### Oct 2011 - Feb 2011 ###
 (<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) 
-The team counted around ten developers, I joined them as Junior developer since it was my first Aussie job my main focus was around development of new features and bug fixing on their e-commerce solution, 
-Reintegration of core updates into our custom build, merge branches from the Devs and deployments.
+The team counted around ten developers, I joined them as **junior developer** since it was my first Aussie job my main focus was around development of new features and bug fixing on their **e-commerce** solution and merge core updates into our custom build.
 
-#### Methodology: Agile/Scrum and Agile/KanBan.
+#### Methodology: Agile/KanBan, CI, CD.
 
 #### Technologies: Linux, Ngix, MySql, Php, Yii, Zend, MySql, MemCached, Solr, JQuery, RequireJs, MySql, WebServices, StateMachine.
 
