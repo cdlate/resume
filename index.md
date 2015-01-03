@@ -19,15 +19,6 @@ Email Address: alberto@tedeschi.io
 
 Phone Number: 0438373160
 
-**TL;DR**
-
-Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a **software developer**, 
- during my six years of commercial experience and probably many more as amateur coder I've mastered PHP, Javascript, I am quite good in C# and fluent in many others Python, C++, Java.
-
- I would like to join an enthusiastic and passionate team. Fast pace environments doesn't scare me, I am flexible with the toolset used if it’s the right one for the job and I’m more than happy to learn new technologies.
- 
-Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb and soon hosted on Ms Azure.
-
 ## Professional Experience ##
 
 ### Apr 2012 - Today ###
@@ -143,3 +134,11 @@ Six major still left, hopefully at some point I'll be able to finish off, I'm st
 
 Got my IT Diploma 87/100.
 
+**TL;DR**
+
+Hi, my name is Alberto Tedeschi, I was born on the 7th of September 1985, I am a **software developer**, 
+ during my six years of commercial experience and probably many more as amateur coder I've mastered PHP, Javascript, I am quite good in C# and fluent in many others Python, C++, Java.
+
+ I would like to join an enthusiastic and passionate team. Fast pace environments doesn't scare me, I am flexible with the toolset used if it’s the right one for the job and I’m more than happy to learn new technologies.
+ 
+Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb and soon hosted on Ms Azure.
