@@ -76,21 +76,13 @@ I joined the company as junior developer and ended up after three years managing
 My duties included:
 
 * Custom CMS development.
-
 * Integration of the CMS with customer's ERP/CRM.
-
 * Development and deployment of dynamic websites usually based on our custom CMS solution and web applications.
-
 * Development of a custom reporting platform.
-
 * Domains and hosting management.
-
 * Migration of the existing projects to new infrastructures.
-
 * Search Engine Optimization (SEO) was part of my routine as main developer of CMS solutions.
-
 * Support other DEVs team while working on critical projects (C++).
-
 * Client website and integrations something like 30 websites web apps and some e-commerce based on Magento and ZenCart.
 
 
