@@ -11,7 +11,7 @@ I would like to join an **enthusiastic and passionate** team. **Fast pace** envi
  
 Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb soon will be hosted on Ms Azure.
 
-Feel free to contact me by **email** at **alberto@tedeschi.io** or by **mobile 0438373160**.
+Feel free to contact me by **email** at **[alberto@tedeschi.io](mailto:alberto@tedeschi.io)** or by **mobile [0438373160](tel:0438373160)**.
 
 ## Professional Experience ##
 
