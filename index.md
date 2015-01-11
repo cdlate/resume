@@ -5,24 +5,27 @@ layout: index
 # Alberto Tedeschi #
 I was born on the **7th of September 1985**, I am an **Italian** **software developer**, currently living in **Sydney Australia** *Temporary Work (Skilled) visa (subclass 457)*.
 
-During my six years of commercial experience and probably many more as amateur coder I've **mastered PHP**, **Javascript**, I am **really good in C#** and **fluent** in many others **Python**, **C++**, **Java**.
+During my six years of commercial experience and probably many more as amateur coder I've **mastered PHP**, **Javascript**, **C#** and **fluent** in many others **Python**, **C++**, **Java**.
 
-I would like to join an **enthusiastic and passionate** team. **Fast pace** environments doesn't scare me, I am **flexible** with the toolset used if it’s the right one for the job and I’m more than **happy to learn** new technologies.
+My goal is to **join a team** that is as **enthusiastic and passionate** as I am about **delivering outstanding value** to clients.
  
-Currently working on an online fundraising platform Gofundraise and coding a mobile geotracking system based in MVC5, MS-SQL, RethinkDb soon will be hosted on Ms Azure.
+Feel free to contact me by **email** at [alberto@tedeschi.io](mailto:alberto@tedeschi.io).
 
-Feel free to contact me by **email** at [alberto@tedeschi.io](mailto:alberto@tedeschi.io) or by mobile [0438373160](tel:0438373160).
-
-## Professional Experience ##
+## Employment History ##
 
 ### Apr 2012 - Today ###
 (<abbr title="Gofundraise, Sydney, Australia">Gofundraise</abbr>) 
-I joined Gofundraise as *junior developer*, I am now the **lead developer**.
+offers an online fundraising platform that brings charities, event organisers and donors together in a highly effective market place.
 
-Our team is composed by four members, my main duties as developer are to **implement new features**, **diagnose and resolve production issues**, **maintain UI and Unit Tests** and **manage releases** when our dev manager is not in the office. 
+I am currently senior developer at Gofundraise, with respponsibility for the company's website and related systems. For Gofundraise, the website is not only a marketing/sales channel but also the main product of the company. My duties include:
 
-During these years at Gofundraise our team was able to deliver a number of improvements to the system: We were able to migrate our main project to Amazon AWS, launch our services in New Zealand, 
-Automate the UI Testing using Selenium, launch our **public API**, provided our partner with **sample api clients** written in C#/Python and implemented and released a number of other minor improvements.
+* Projects such as our RESTful API and new Event Creator (CMS) platform.
+* Enhancements and bug fixes for the main site (all layers).
+* Updates and improvements to our Reporting and other scheduled services. 
+
+The GoFundraise technology stack is ASP.Net MVC 4, Web APi, OData and MSSQL 2012 at the backend. The front end is a mixture of KendoUi and Knockout with Bootstrap and custom css. Supporting/ancilliary systems are built on LogStash, Elastic Search, Kabana and MySql on CentOS.
+
+Both Project and Business as Usual tasks are tracked using the Atlassian stack of Confluence and Jira with Bamboo as the Continuous Integration server. We typically run a four week Agile sprint and monitor these using a Jira/Greenhopper Scrum board. 
 
 
 #### Methodology: Agile/Scrum, CI.
@@ -33,23 +36,35 @@ Automate the UI Testing using Selenium, launch our **public API**, provided our 
 
 
 ### Jun 2012 - Apr 2013 ###
-(<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) 
-I joined Gomeeki as **senior developer**, during my time there I was able to successfully deliver some of **mobile websites** eg. [m.ahg.com.au](http://m.ahg.com.au) Contribuited to a number of **rest apis** currently serving mobile applications (like ABC) and developed most of the reporting side of their marketing SaaS platform named Ubiquity ([www.gomeeki.com.au/platform](http://www.gomeeki.com.au/platform)).
+(<abbr title="Gomeeki, Sydney, Australia">Gomeeki</abbr>) is a digital media company, providing coding and project management services.
+
+I was reposonible for the development, enhancement and bug fixing of their tracing platform. This was a sophisticated aggregator of statistical data coming from heterogenious tracking engines.
+
+The technology stack was PHP (Yii Framework), Bootstrap.js, JQuery, BackBone, GA API, Piwik and his API. My duties included both the frontend and backend development.
+
+During this time, I also developed and deployed mobile websites eg. [m.ahg.com.au](http://m.ahg.com.au) for Gomeeki clients, this involved complex data gathering from backend systems and integrating various CRM/ERP systems, usually through RestFul/SOAP APIs.
 
 #### Methodology: Agile/Scrum, CI.
 
 #### Technologies: Linux, Apache, MySql, Php, Yii, BootStrap, Knock-out, JQuery, RequireJs, Smpp, RabbitMq, Varnish, Piwik, Google Analytics, WebServices, Amazon AWS, Java.
 
-#### Tools: Git, GitHub, New Relic.
+#### Tools: Jira, Git, GitHub, New Relic.
 
 
 ### Mar 2012 - Jun 2012  ###
 (<abbr title="Be &amp; Partners, Reggio Emilia, Italy">Be &amp; Partners</abbr>) 
-I joined Be &amp; Partners as **senior developer**, my main duty was to extend the functionalities of their existing custom CMS system in order to make it able to handle new client requirements.
+ is a digital media company, providing coding and project management services.
 
-During the three months I worked there I was able to implement a number of features: their CMS system can now handle multiple products lists, multiple localizations, all the products catalogues are downloadable as PDF documents, the products lists can be updated using **web services**, the product images are now **auto-cropped and resized**.
+My main responsibility whilst at Be & Partners was developing their Content Management System (CMS) written in PHP on the Zend Framework.
+During my employment I added many new features, including: 
 
-The updated CMS has been used to develop the website [www.deroma.com](http://www.deroma.com), which is now live in Italy, Us, France, Spain and Japan.
+* A RestFul API to import lists of products. 
+* Support for multiple product lists and multiple localizations. 
+* The ability to download product catalogues as Pdfs. 
+* The implemenation of an Access Control List (ACL) system to manage security.
+* The inclusion of and image uploader/resizer for the CMS, developed using JQuery and GDLib.
+
+These features then allowed a collegue and I to develop [www.deroma.com](http://www.deroma.com), which is now live in Italy, Us, France, Spain and Japan.
 
 #### Methodology: Waterfall.
 
@@ -60,8 +75,16 @@ The updated CMS has been used to develop the website [www.deroma.com](http://www
 
 
 ### Oct 2011 - Feb 2011 ###
-(<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) 
-The team counted around ten developers; I joined them as **junior developer**, since it was my first Aussie job, my main focus was around development of new features and bug fixing on their **e-commerce** solution and merge core updates into our custom build.
+(<abbr title="Rocket Internet Gmbh, Sydney, Australia">Rocket Internet</abbr>) specialises in identifying and building proven Internet business models and transfering them to new, underserved or untapped markets.
+
+As part of a team of twenty developers, my main focus was on implementing new features and bug fixing the e-commerce solution. The technology stack was PHP with thw Zend Framework and Yii Framework plus memcached and Solr.
+
+Working at Rocket was the most wonderful and exiting working experience I have ever had. Projects were managed through the agile/scrum methodology, and it gave me the opportunity to improve a wide range of skills. I also met some of best developers I ever knew and it was been an honor and a pleasure to work in that awesome team.
+My duties were: 
+
+* Bug fixing their ecommerce system on both the frontend and backend. 
+* Implement some new feature(Eg. Css/Js minifier). 
+* Merge and deploy branches from the Devs and teaching to the new guys how to do that.
 
 #### Methodology: Agile/KanBan, CI, CD.
 
@@ -97,10 +120,8 @@ My duties included:
 ## Personal Experience ##
 
 ### 2007 - Now ###
-Keep studying new languages, picking up IT related skills, and playing around with .net vNext.
+Keep studying new languages, picking up IT related skills, and playing with .net vNext.
 
-### 2007 ###
-Successfully passed my computational physics exam with an implementation of the Monte Carlo method in Fortran.
 
 ### 2005 ###
 Successfully developed a video surveillance software in C++ with motion detection and able to handle up to 16 cameras as my final exam project at high school.  
