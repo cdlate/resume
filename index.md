@@ -106,7 +106,6 @@ My duties included:
 * Development of a custom reporting platform.
 * Domains and hosting management.
 * Migration of the existing projects to new infrastructures.
-* Search Engine Optimization (SEO) was part of my routine as main developer of CMS solutions.
 * Support other DEVs team while working on critical projects (C++/VB/C#).
 * Client website and integrations something like 30 websites web apps and some e-commerce based on Magento and ZenCart.
 
