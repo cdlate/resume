@@ -4,8 +4,7 @@ layout: index
 ---
 # Alberto Tedeschi #
 I was born on the **7th of September 1985**, I am an **Italian** **software developer**, currently living in Reggio Emilia, Italy.
-
-During my six years of commercial experience and probably many more as amateur coder I've **mastered C#, PHP**, **Javascript** and **fluent** in many others **Python**, **C++**, **Java**.
+During my seven years of commercial experience and probably many more as amateur coder I've **mastered C#, PHP**, **Javascript** and **fluent** in many others **Python**, **C++**, **Java**.
 
 My goal is to **join a team** that is as **enthusiastic and passionate** as I am about **delivering outstanding value** to clients.
  
@@ -108,7 +107,7 @@ My duties included:
 * Domains and hosting management.
 * Migration of the existing projects to new infrastructures.
 * Search Engine Optimization (SEO) was part of my routine as main developer of CMS solutions.
-* Support other DEVs team while working on critical projects (C++).
+* Support other DEVs team while working on critical projects (C++/VB/C#).
 * Client website and integrations something like 30 websites web apps and some e-commerce based on Magento and ZenCart.
 
 
@@ -123,10 +122,8 @@ My duties included:
 ### 2007 - Now ###
 Keep studying new languages, picking up IT related skills, and playing with .net vNext.
 
-
 ### 2005 ###
 Successfully developed a video surveillance software in C++ with motion detection and able to handle up to 16 cameras as my final exam project at high school.  
-
 
 ### 2002 ###
 Developed a dynamic website for my Starcraft clan base on LAMP stack, today only the forum is still up ( [www.clan-the.net/forum/](http://www.clan-the.net/forum/) ).
