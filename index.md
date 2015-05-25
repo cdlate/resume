@@ -3,9 +3,9 @@ title: Alberto's CV
 layout: index
 ---
 # Alberto Tedeschi #
-I was born on the **7th of September 1985**, I am an **Italian** **software developer**, currently living in **Sydney Australia** *Temporary Work (Skilled) visa (subclass 457)*.
+I was born on the **7th of September 1985**, I am an **Italian** **software developer**, currently living in Reggio Emilia, Italy.
 
-During my six years of commercial experience and probably many more as amateur coder I've **mastered PHP**, **Javascript**, **C#** and **fluent** in many others **Python**, **C++**, **Java**.
+During my six years of commercial experience and probably many more as amateur coder I've **mastered C#, PHP**, **Javascript** and **fluent** in many others **Python**, **C++**, **Java**.
 
 My goal is to **join a team** that is as **enthusiastic and passionate** as I am about **delivering outstanding value** to clients.
  
@@ -21,14 +21,15 @@ I am currently senior developer at Gofundraise, with respponsibility for the com
 
 * Projects such as our RESTful API and new Event Creator (CMS) platform.
 * Enhancements and bug fixes for the main site (all layers).
-* Updates and improvements to our Reporting and other scheduled services. 
+* Updates and improvements to our Reporting and other scheduled services.
+* Keep unit tests and regression tests up to date.
 
 The GoFundraise technology stack is ASP.Net MVC 4, Web APi, OData and MSSQL 2012 at the backend. The front end is a mixture of KendoUi and Knockout with Bootstrap and custom css. Supporting/ancilliary systems are built on LogStash, Elastic Search, Kabana and MySql on CentOS.
 
 Both Project and Business as Usual tasks are tracked using the Atlassian stack of Confluence and Jira with Bamboo as the Continuous Integration server. We typically run a four week Agile sprint and monitor these using a Jira/Greenhopper Scrum board. 
 
 
-#### Methodology: Agile/Scrum, CI.
+#### Methodology: Agile/Scrum, TDD, CI.
 
 #### Technology: C#, Python, .Net, Entity Framework, Unity, SQL Server, Selenium, KendoUI, OAuth2, WebApi, OData, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
 
