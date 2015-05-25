@@ -32,7 +32,7 @@ Both Project and Business as Usual tasks are tracked using the Atlassian stack o
 
 #### Technology: C#, Python, .Net, Entity Framework, Unity, SQL Server, Selenium, KendoUI, OAuth2, WebApi, OData, Bootstrap, WebApi, WCF, Quartz, Amazon AWS.
 
-#### Tools: ELK Stack for centralized logging, GIT and Atlassian stack ( Jira, Bamboo, Confluence, BitBucket ).
+#### Tools: ELK Stack for centralized logging, GIT and Atlassian stack (Jira, Bamboo, Confluence).
 
 
 ### Jun 2012 - Apr 2013 ###
